@@ -1,0 +1,6 @@
+Conceptos:
+
+- Introduccion a los <scripts>
+- Introducciones a las funciones
+- Introduccion a los eventos (onclick, onmouseover, onkeydown, onkeyup, onload, onblur, etc)
+- Introduccion a las variables (const, let, var)
